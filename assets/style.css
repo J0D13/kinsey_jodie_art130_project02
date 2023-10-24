@@ -1,0 +1,9 @@
+html {
+    background-color:crimson;
+    font-family: 'Libra Baskerville';
+}
+
+body {
+    margin: 4rem;
+    -webkit-text-fill-color:black;
+}
